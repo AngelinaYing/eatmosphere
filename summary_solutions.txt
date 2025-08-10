@@ -1,0 +1,39 @@
+[Therapy] - 75
+    - seeking therapy
+    - individual therapy
+
+[Setting boundaries] - 31
+    - setting boundaries
+    - establishing limits based on circumstances
+
+[Seeking professional help] - 30
+    - seeking professional help
+    - consulting a nutritionist
+
+[Mindful eating practices] - 19
+    - mindful eating practices
+    - eating simple foods like protein bars, fruit, and cheese
+
+[Support from others] - 17
+    - seeking support from friends
+    - seeking support from family
+
+[Healthy eating habits] - 16
+    - promoting healthy eating habits
+    - focusing on balanced meals
+
+[Seeking understanding] - 14
+    - seeking understanding from others
+    - seeking reassurance from mother
+
+[Self-care practices] - 13
+    - engaging in self-care practices
+    - prioritizing self-care
+
+[Meal planning] - 11
+    - meal planning
+    - planning meals ahead
+
+[Body positivity] - 10
+    - promoting body positivity
+    - focusing on a healthy body image

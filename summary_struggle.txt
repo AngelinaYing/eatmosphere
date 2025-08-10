@@ -1,0 +1,51 @@
+[binge eating] - 77
+    - Binge eating disorder
+    - Binge eating in secret
+    
+[anorexia] - 42
+    - Mild anorexia
+    - Anorexia recovery
+    
+[body image issues] - 40
+    - Body image dissatisfaction
+    - Body dysmorphia
+    
+[overeating] - 38
+    - Overeating during Adderall comedown
+    - Overeating trail mix
+    
+[emotional eating] - 36
+    - Emotional eating
+    - Coping with grief
+    
+[disordered eating] - 25
+    - Disordered eating behaviors
+    - Unspecified eating disorder
+    
+[food insecurity] - 14
+    - Trauma-related food insecurity
+    - Concern for niece's reproductive health
+    
+[stress eating] - 14
+    - Stress eating
+    - Stress-induced eating behaviors
+    
+[weight gain] - 14
+    - Weight gain
+    - Potential setback in weight loss progress
+    
+[control issues] - 10
+    - Control overeating habits
+    - Control over food intake
+    
+[financial constraints] - 10
+    - Financial constraints
+    - Difficulty affording appetizing food
+    
+[ARFID (Avoidant/Restrictive Food Intake Disorder)] - 9
+    - ARFID
+    - Texture aversion
+    
+[Eating disorder] - 9
+    - Eating disorder
+    - Developing dependence on the feeder.

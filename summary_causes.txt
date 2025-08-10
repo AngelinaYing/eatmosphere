@@ -1,0 +1,55 @@
+[Emotional Eating] - 36
+    - Seeking comfort in specific unhealthy food choices
+    - Emotional distress, using food to cope with emotions
+    
+[Body Image Concerns] - 26
+    - Insecurity about weight gain
+    - Fear of judgment and failure
+    
+[Family Dynamics] - 21
+    - Enabling behavior from family
+    - Pressure from family to conform to societal norms
+    
+[Mental Health Struggles] - 20
+    - Coping with stress through food
+    - Depression affecting appetite
+    
+[Unhealthy Relationship with Food] - 19
+    - Using food as a coping mechanism
+    - Lack of control over eating habits
+    
+[Self-Esteem Issues] - 17
+    - Negative self-perception
+    - Lack of confidence in body image
+    
+[Pressure from Society] - 15
+    - Societal pressure to conform to body image norms
+    - Influence of societal beauty standards
+    
+[Relationship Issues] - 13
+    - Feeling betrayed by partner's behavior
+    - Lack of support from partner
+    
+[Coping with Grief] - 12
+    - Using food as a coping mechanism for grief
+    - Emotional distress from a loss
+    
+[Stress Eating] - 10
+    - Using food as a comfort during stress
+    - Emotional eating triggered by stress
+    
+[Control Issues] - 9
+    - Feeling out of control around food
+    - Lack of self-control in eating habits
+    
+[Financial Constraints] - 8
+    - Financial limitations impacting food choices
+    - Lack of financial contribution leading to stress eating
+    
+[Insecurity] - 7
+    - Insecurity about body image
+    - Fear of not being loved/respected due to weight gain
+    
+[Trauma and PTSD] - 6
+    - Grief and stress from a family member's passing
+    - Emotional trauma from childhood impacting relationship with food
